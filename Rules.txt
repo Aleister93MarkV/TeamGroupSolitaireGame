@@ -1,0 +1,47 @@
+1 . Modo Clássico (como o Solitaire original)
+
+    O objetivo é mover todas as cartas para quatro pilhas finais, separadas por cor e em ordem crescente (0 a 9).
+
+    Todos os jogadores trabalham juntos para liberar as cartas e organizá-las.
+
+2 . Modo Competitivo (Corrida para completar pilhas)
+
+    Cada jogador tem seu próprio espaço de jogo e tenta completar as pilhas antes dos outros.
+
+    O primeiro a organizar todas as suas cartas vence.
+
+3 . Modo de Pontuação
+
+    Cada ação (mover uma carta, usar uma especial corretamente, etc.) vale pontos.
+
+    O jogo termina quando não há mais movimentos possíveis ou alguém completa suas pilhas.
+
+    Quem tiver mais pontos vence.
+
+4 . Modo Eliminação
+
+    Se um jogador não puder jogar por um número determinado de rodadas, ele é eliminado.
+
+    O último jogador restante vence.
+
+5 . Modo Rei do Pedaço
+
+Objetivo: O jogador que controlar mais pilhas por um tempo determinado vence.
+
+Como funciona:
+
+    Cada jogador pode iniciar suas próprias pilhas seguindo as regras do jogo.
+
+    Para tomar o controle de uma pilha de outro jogador, ele precisa jogar uma carta válida sobre ela.
+
+    O jogador que controla mais pilhas ao final do tempo definido (ou ao acabar as cartas) vence.
+
+Uso das cartas especiais:
+
+    Pular: O próximo jogador perde a vez.
+
+    Inverter: A ordem de jogo muda.
+
+    +2 e +4: O jogador afetado deve comprar cartas extras.
+
+    Coringa: Pode ser jogado para mudar a cor da pilha.
